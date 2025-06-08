@@ -12,3 +12,6 @@ To run any challenge, open the respective `.js` file in your browser console or 
 
 ## Author
 Said Abdulhakim
+
+## License
+MIT license
